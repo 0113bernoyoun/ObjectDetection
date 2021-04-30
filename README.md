@@ -4,7 +4,7 @@
   1) https://www.dropbox.com/s/3iwrlltncshxlcv/pytorch_codes.zip?dl=0
 
 - Yolo v3 code download
-  1) yolov3: https://www.dropbox.com/s/5gqqd8y5adnr30z/objectDetectionCode.zip?dl=0
+  1) yolov3: https://www.dropbox.com/s/4zyorrya10f96ur/objectDetectionCode.zip?dl=0
 
 - Cards dataset:
   1) cards dataset: https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10
