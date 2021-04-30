@@ -8,6 +8,7 @@
 
 - Cards dataset:
   1) cards dataset: https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10
+  2) download: https://www.dropbox.com/s/3gv7dtyzsg8kia4/cards_dataset.zip?dl=0
 
 - Yolo v3 weight download
   1) darknet53.conv.74: https://www.dropbox.com/s/8bzp0z81jnx9tkk/darknet53.conv.74?dl=0
